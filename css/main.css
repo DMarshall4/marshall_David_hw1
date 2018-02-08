@@ -3,20 +3,53 @@
 
 .hidden { display: none;}
 
-h1{
-
+body{
+  font-family: abhaya_libreregular, arial, sans-serif;
+  font-size: 18px;
+  color: #181818;
 }
+
+h1{
+  font-family: archivoregular, times, serif;
+  font-size: 36px;
+  color: #3079d9;
+}
+
+h2{
+  font-family: archivoregular, times, serif;
+  font-size: 30px;
+  color: #404040;
+}
+
+h3{
+  font-family: archivoregular, times, serif;
+  font-size: 24px;
+  color: #404040;
+}
+
 
 #container{
   margin: 0 auto;
   width: 930px;
-  background-color: #eeeeee;
+  background-color: #f2f2f2;
 }
 
 #header{
   float: left;
+  margin-top: 10px;
+  padding: 10px;
+  width: 930px;
 }
 
 .Infoblock{
-
+  float: none;
+  margin: auto;
+  padding: 20px;
+  background-color: #63b0f2;
 }
+
+.worksblock{
+  padding: 20px;
+}
+
+.spacer{padding: 20px;}
