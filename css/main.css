@@ -3,8 +3,18 @@
 
 .hidden { display: none;}
 
+h1{
+
+}
+
 #container{
-  
+  margin: 0 auto;
+  width: 930px;
+  background-color: #eeeeee;
+}
+
+#header{
+  float: left;
 }
 
 .Infoblock{
